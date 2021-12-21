@@ -1,0 +1,6 @@
+{
+    "fulfillment_text": "Doing dance 1",
+    "intent": "do_dance",
+    "intent_detection_confidence": 1.0,
+    "query_text": "do a dance"
+}

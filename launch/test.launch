@@ -1,0 +1,8 @@
+<launch>
+    <node 
+        pkg="demons" 
+        type="test.py" 
+        name="test_node"  
+        output="screen">
+    </node>
+</launch>

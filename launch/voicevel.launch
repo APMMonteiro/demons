@@ -1,0 +1,14 @@
+<launch>
+    <node 
+        pkg="demons" 
+        type="voicevel.py" 
+        name="voice_control_node"  
+        output="screen">
+    </node>
+    <node
+        pkg="demons"
+        type="stopextra.py"
+        name="stop_extra_node"
+        output="screen">
+    </node>
+</launch>
